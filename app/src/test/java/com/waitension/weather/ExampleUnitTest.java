@@ -1,4 +1,4 @@
-package com.apkglobal.weather;
+package com.waitension.weather;
 
 import org.junit.Test;
 

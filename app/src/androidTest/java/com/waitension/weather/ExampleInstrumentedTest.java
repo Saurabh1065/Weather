@@ -1,4 +1,4 @@
-package com.apkglobal.weather;
+package com.waitension.weather;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.apkglobal.weather", appContext.getPackageName());
+        assertEquals("com.waitension.weather", appContext.getPackageName());
     }
 }
